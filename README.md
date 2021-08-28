@@ -13,14 +13,16 @@
       <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" height="18" width="18">
       </a> <a href="https://bitacoradeunacoder.blogspot.com" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" height="18" width="18">
+     </a> <a href="https://dev.to/mysticbel" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" height="18" width="18">
+   </a> <a href="https://mysticbel.hashnode.dev" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" height="18" width="18">
       </a> <a href="https://www.pinterest.es/skyyofglass/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" height="18" width="18">
       </a> <a href="https://open.spotify.com/user/78r596y1a0gx7j6auncex45sv" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" height="18" width="18">
 
 </a> <p align="right"> <img src="https://komarev.com/ghpvc/?username=mysticBel&label=Welcome%20to%20my%20profile%20!🦄💜✨%20&color=ac6aad&style=plastic" alt="mysticBel" /> 
-
-
  <h1 align="center">Hi , I'm Maribel Maza <img src="https://media.giphy.com/media/Nf9SbPsJ8e1saJVogD/giphy.gif?cid=790b7611a4b7cc9e69d71d98f7cb6278e153457922d17527&rid=giphy.gif&ct=s" width="80"></h1>  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+to+be+a+Frontend+Web+Developer;JS%20|%20UX%20|%20UI%20Enthusiast+💻+🤗;Always%20learning%20new%20things+for+sharing💜;I+💙+coding+for+fun!&center=true&width=500&height=50"></a>
@@ -91,12 +93,13 @@ Frontend Tools : <a href="https://www.w3.org/html/" target="_blank">
 
 </details>
 
-## 🎧Spotify Playing
+## 🎧...songs that move me forward 😄 🎵:
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+[![One piece ](https://img.youtube.com/vi/wdOra_ckb-s/0.jpg)](https://www.youtube.com/watch?v=wdOra_ckb-s)   [![One piece ](https://img.youtube.com/vi/SlaFJ7v85Bs/0.jpg)](https://www.youtube.com/watch?v=SlaFJ7v85Bs)
+💜😜they mean soo much to me !! 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/78r596y1a0gx7j6auncex45sv)
 
+hey, thanks for being here...
 <br><br>
  <p  align="center"> <img  src="https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif?cid=ecf05e47x4jkjizapdnaobt3ianj40udmnw8u5mu1dgzohj7&rid=giphy.gif&ct=s" width="100">
    </p><h3  align="center">

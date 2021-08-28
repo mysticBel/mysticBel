@@ -28,9 +28,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+to+be+a+Frontend+Web+Developer;JS%20|%20UX%20|%20UI%20Enthusiast+💻+🤗;Always%20learning%20new%20things+for+sharing💜;I+💙+coding+for+fun!&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="justify">I'm currently studying at  <a href="https://www.laboratoria.la">Laboratoria.la 💛 </a> , I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. <br>
-  I love meeting new people, exchanging ideas and spreading knowledge and positivity.<br>🤗 My goal is to collaborate on projects that could help others in which we include so much creativity ! <br>
-  In my free time I enjoy playing retro-games, talking with friends, bujo-planning , reading manga,watching anime and coding tutorials on Youtube , learning Arabic & listening to music .<br>
+<h4 align="justify">I'm currently studying at  <a href="https://www.laboratoria.la">Laboratoria.la 💛 </a> , I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. 
+  I love meeting new people, exchanging ideas and spreading knowledge and positivity.🤗 My main goal is to collaborate on projects that could help others in which we include so much creativity ! <br>
+  In my free time I enjoy playing retro-games, talking with friends, programming , bujo-planning , reading manga, watching anime and tutorials on Youtube & listening to music .<br>
 <br>📬✨ Feel free to reach out ! :<br><br> <a href="https://www.linkedin.com/in/maribel-maza/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:dnxbel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <br></h4>

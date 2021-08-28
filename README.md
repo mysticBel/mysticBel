@@ -95,13 +95,17 @@ Frontend Tools : <a href="https://www.w3.org/html/" target="_blank">
 
 ## 🎧...songs that move me forward 😄 🎵:
 
-[![One piece ](https://img.youtube.com/vi/tQ68tzpI02U/0.jpg)](https://www.youtube.com/watch?v=tQ68tzpI02U)  <br><br> [![One piece ](https://img.youtube.com/vi/SlaFJ7v85Bs/0.jpg)](https://www.youtube.com/watch?v=SlaFJ7v85Bs)
+[![One piece ](https://img.youtube.com/vi/Dc5EiNu_WwU/0.jpg)](https://www.youtube.com/watch?v=Dc5EiNu_WwU)  <br><br> [![One piece ](https://img.youtube.com/vi/SlaFJ7v85Bs/0.jpg)](https://www.youtube.com/watch?v=SlaFJ7v85Bs)
 
 💜😜they mean soo much to me !! 
 <br>
 <br>
 hey, thanks for being here...
-<br><br>
+<br>
+ 
+
+
+<br>
  <p  align="center"> <img  src="https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif?cid=ecf05e47x4jkjizapdnaobt3ianj40udmnw8u5mu1dgzohj7&rid=giphy.gif&ct=s" width="100">
    </p><h3  align="center">
  ✨---Have a nice day !---✨ </h3>

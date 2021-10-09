@@ -15,36 +15,42 @@
       <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" height="18" width="18">
      </a> <a href="https://dev.to/mysticbel" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" height="18" width="18">
-   </a> <a href="https://mysticbel.hashnode.dev" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" height="18" width="18">
+<!--       </a>  <a href="https://mysticbel.hashnode.dev" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" height="18" width="18"> -->
       </a> <a href="https://www.pinterest.es/skyyofglass/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" height="18" width="18">
       </a> <a href="https://open.spotify.com/user/78r596y1a0gx7j6auncex45sv" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" height="18" width="18">
 
 </a> <p align="right"> <img src="https://komarev.com/ghpvc/?username=mysticBel&label=Welcome%20to%20my%20profile%20!🦄💜✨%20&color=ac6aad&style=plastic" alt="mysticBel" /> 
- <h1 align="center">Hi , I'm Maribel Maza <img src="https://media.giphy.com/media/Nf9SbPsJ8e1saJVogD/giphy.gif?cid=790b7611a4b7cc9e69d71d98f7cb6278e153457922d17527&rid=giphy.gif&ct=s" width="80"></h1>  
+ <h1 align="center">Hi , I'm Maribel Maza <img src="https://media.giphy.com/media/Nf9SbPsJ8e1saJVogD/giphy.gif?cid=790b7611a4b7cc9e69d71d98f7cb6278e153457922d17527&rid=giphy.gif&ct=s" width="80"></h1> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+to+be+a+Frontend+Web+Developer;JS%20|%20UX%20|%20UI%20Enthusiast+💻+🤗;Always%20learning%20new%20things+for+sharing💜;I+💙+coding+for+fun!&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer+💻+💛;JS%20|%20UX%20|%20UI%20Enthusiast+💻+🤗;Always%20learning%20new%20things+for+sharing💜;I+💙+coding+for+fun!&center=true&width=500&height=50"></a>
 </p>
+  
 <hr/>
-<h4 align="justify">I'm currently studying at  <a href="https://www.laboratoria.la">Laboratoria.la 💛 </a> , I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. 
-  I love meeting new people, exchanging ideas and spreading knowledge and positivity.🤗 My main goal is to collaborate on projects that could help others in which we include so much creativity ! <br>
-  In my free time I enjoy playing retro-games, talking with friends, programming , bujo-planning , reading manga, watching anime and tutorials on Youtube & listening to music .<br>
-<br>📬✨ Feel free to reach out ! :<br><br> <a href="https://www.linkedin.com/in/maribel-maza/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:dnxbel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<h4 align="justify">I'm currently studying at  <a href="https://www.laboratoria.la">Laboratoria.la 💛 </a> , I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. <br>
+  I love meeting new people, exchanging ideas and spreading knowledge and positivity.<br>🤗 My main goal is to collaborate on projects that could help others in which we include so much creativity & create new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
+  <br>
+  In my free time , I enjoy playing retro-games, talking with friends, programming , bujo-planning at weekends, reading manga & watching anime (currently watching JoJo🤣) and listening to music
+  . . . I freakin' love The Doors ! 🎵 ✨ <br>
+<br>📬✨ I'd love to connect with you . . .Feel free to reach out ! :<br><br> <a href="https://www.linkedin.com/in/maribel-maza/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; 
+<a href="mailto:dnxbel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;<a href="https://github.com/mysticBel"><img alt="Github" src="https://img.shields.io/github/followers/mysticBel?label=follow&style=social"/></a> &nbsp;
+<!--   <a href="https://www.hackerrank.com/mysticBel"><img alt="Github" src="https://img.shields.io/badge/-HackerRank-islamicgreen?style=flat&logo=HackerRank&logoColor=black"/></a> &nbsp; -->
 <br></h4>
 <br> <br>
-<p>
+
+  <p>
 <a align= "center" href="https://github.com/mysticBel">
+    
   <img alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="260px" width="330" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
 
-<br> <br> <br>
-
+<br> <br> <br> 
 
 ## 🛠️ My Skills
+
 <p  align="center">
  <img  src="https://media.giphy.com/media/wR8c84hAAn0Mo/giphy.gif?cid=ecf05e47p1rgs4bsyu5s1hd1hj3ka76b70sialc2biw1uoly&rid=giphy.gif&ct=s" width="120">
  </p>
@@ -61,6 +67,16 @@ Frontend Tools : <a href="https://www.w3.org/html/" target="_blank">
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
  </p> 
+<p  align="justify">  
+Backend Tools : <a href="https://nodejs.org/en/docs/" target="_blank"> 
+    <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-43853D?style=flate&logo=node.js&logoColor=white">  </a> 
+  <a href="https://expressjs.com" target="_blank"> 
+    <img alt="Express" src="https://img.shields.io/badge/Express.js%20-%91bf88.svg?logo=express&logoColor=white">
+  </a>
+  <a href="https://docs.mongodb.com" target="_blank"> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%47910a.svg?style=flat&logo=mongodb&logoColor=white">
+  </a> 
+  </p> 
  <p  align="justify">
  Databases & Cloud Hosting  :  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
@@ -89,29 +105,34 @@ Frontend Tools : <a href="https://www.w3.org/html/" target="_blank">
   <br/>
     <p align="center"><img align="center" height="250px" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mysticBel&theme=cobalt" alt="mysticBel" /></p>
    <a href="https://github.com/mysticBel"><img alt="mysticBel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mysticBel&custom_title=Maribel%20Maza's%20Contribution%20Graph&theme=react-dark" /></a>
+
+</p>
   <br/>
 
 </details>
 
 ## 🎧...songs that move me forward 😄 🎵:
 
-[![One piece ](https://img.youtube.com/vi/Dc5EiNu_WwU/0.jpg)](https://www.youtube.com/watch?v=Dc5EiNu_WwU)  <br><br> [![One piece ](https://img.youtube.com/vi/SlaFJ7v85Bs/0.jpg)](https://www.youtube.com/watch?v=SlaFJ7v85Bs)
+[![One piece ](https://img.youtube.com/vi/Dc5EiNu_WwU/0.jpg)](https://www.youtube.com/watch?v=Dc5EiNu_WwU) <br><br> [![Braveheart ](https://img.youtube.com/vi/Yk2q-MTlKDc/0.jpg)](https://www.youtube.com/watch?v=Yk2q-MTlKDc)
 
 💜😜they mean soo much to me !! 
-<br>
 <br>
 hey, thanks for being here...
 <br>
  
-
-
 <br>
- <p  align="center"> <img  src="https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif?cid=ecf05e47x4jkjizapdnaobt3ianj40udmnw8u5mu1dgzohj7&rid=giphy.gif&ct=s" width="100">
-   </p><h3  align="center">
+ <p align="center"> <img  src="https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif?cid=ecf05e47x4jkjizapdnaobt3ianj40udmnw8u5mu1dgzohj7&rid=giphy.gif&ct=s" width="100"> 
+</p>
+   
+   <h3  align="center">
  ✨---Have a nice day !---✨ </h3>
+ <br>
+
+
 <!---
 https://media.giphy.com/media/QmH1nvvRwTWyWJHPq8/giphy.gif?cid=790b76116ffecae2f4bcdb59163626068e89ec538d7cc917&rid=giphy.gif&ct=s" width="120">
 
 mysticBel/mysticBel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+   <img  src="https://raw.githubusercontent.com/mysticBel/mysticBel/b8340df23b7c2daba92d47dee0e31b053f04c41e/github-user-contribution.svg" width="550">   
 --->

@@ -142,7 +142,7 @@ hey, thanks for being here...
 </p>
    
    <h3  align="center">
- ✨---  🎅🎄  Merry Xmass & Happy New Year  !  ---✨ </h3>
+ ✨---  🎅🎄  Merry Xmas & Happy New Year  !  ---✨ </h3>
  <br>
 
 

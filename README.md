@@ -7,19 +7,24 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" height="18" width="18">
     </a> <a href="https://twitter.com/skyyofglass" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" height="18" width="18">
-  </a> <a href="https://www.instagram.com/m.bel.1/" target="_blank">
+  </a> 
+  
+   <a href="https://www.instagram.com/m.bel.1/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="18" width="18">
-    </a> <a href="https://www.youtube.com/channel/UCW20HKEDb_yhbdrPbAcA81g" target="_blank">
+    </a>
+<!--   <a href="https://www.youtube.com/channel/UCW20HKEDb_yhbdrPbAcA81g" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" height="18" width="18">
       </a> <a href="https://bitacoradeunacoder.blogspot.com" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg" height="18" width="18">
      </a> <a href="https://dev.to/mysticbel" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" height="18" width="18">
-<!--       </a>  <a href="https://mysticbel.hashnode.dev" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" height="18" width="18"> -->
-      </a> <a href="https://www.pinterest.es/skyyofglass/" target="_blank">
+       </a>  <a href="https://mysticbel.hashnode.dev" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" height="18" width="18"> 
+      </a> -->
+<!--   <a href="https://www.pinterest.es/skyyofglass/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" height="18" width="18">
-      </a> <a href="https://open.spotify.com/user/78r596y1a0gx7j6auncex45sv" target="_blank">
+      </a>  -->
+  <a href="https://open.spotify.com/user/78r596y1a0gx7j6auncex45sv" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" height="18" width="18">
 
 </a> <p align="right"> <img src="https://komarev.com/ghpvc/?username=mysticBel&label=Welcome%20to%20my%20profile%20!🦄💜✨%20&color=ac6aad&style=plastic" alt="mysticBel" /> 
@@ -30,6 +35,7 @@
   
 <hr/>
 <h4 align="justify">I'm currently studying at  <a href="https://www.laboratoria.la">Laboratoria.la 💛 </a> , I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. <br>
+  
   I love meeting new people, exchanging ideas and spreading knowledge and positivity.<br>🤗 My main goal is to collaborate on projects that could help others in which we include so much creativity & create new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
   <br>
   In my free time , I enjoy playing retro-games, talking with friends, programming , bujo-planning at weekends, reading manga & watching anime (currently watching JoJo🤣) and listening to music
@@ -63,9 +69,20 @@ Frontend Tools : <a href="https://www.w3.org/html/" target="_blank">
   <a href="https://getbootstrap.com" target="_blank"> 
    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+  <a href="" target="_blank"> 
+   <img alt="SASS" src="https://img.shields.io/badge/Sass-%23cc6699.svg?style=flat&logo=sass&logoColor=white"/>
+  </a>
+  <a href="" target="_blank"> 
+   <img alt="Material-UI" src="https://img.shields.io/badge/MaterialUI-%23007acc.svg?style=flat&logo=material-ui&logoColor=white"/>
+  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
+   <a href="" target="_blank"> 
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DBFB.svg?style=flat&logo=react&logoColor=white">
+  </a>   <a href="" target="_blank"> 
+   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white"/>
+  </a>
  </p> 
 <p  align="justify">  
 Backend Tools : <a href="https://nodejs.org/en/docs/" target="_blank"> 
@@ -121,11 +138,11 @@ hey, thanks for being here...
 <br>
  
 <br>
- <p align="center"> <img  src="https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif?cid=ecf05e47x4jkjizapdnaobt3ianj40udmnw8u5mu1dgzohj7&rid=giphy.gif&ct=s" width="100"> 
+ <p align="center"> <img  src="https://thumbs.gfycat.com/DeadIcyChinchilla-size_restricted.gif" width="100"> 
 </p>
    
    <h3  align="center">
- ✨---Have a nice day !---✨ </h3>
+ ✨---  🎅🎄  Merry Xmass & Happy New Year  !  ---✨ </h3>
  <br>
 
 
@@ -135,4 +152,5 @@ https://media.giphy.com/media/QmH1nvvRwTWyWJHPq8/giphy.gif?cid=790b76116ffecae2f
 mysticBel/mysticBel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
    <img  src="https://raw.githubusercontent.com/mysticBel/mysticBel/b8340df23b7c2daba92d47dee0e31b053f04c41e/github-user-contribution.svg" width="550">   
+https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif?cid=ecf05e47x4jkjizapdnaobt3ianj40udmnw8u5mu1dgzohj7&rid=giphy.gif&ct=s
 --->

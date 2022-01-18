@@ -138,11 +138,11 @@ hey, thanks for being here...
 <br>
  
 <br>
- <p align="center"> <img  src="https://thumbs.gfycat.com/DeadIcyChinchilla-size_restricted.gif" width="100"> 
+ <p align="center"> <img  src="https://media.giphy.com/media/f9T7yKUOU3a4QUXj0w/giphy.gif" width="100"> 
 </p>
    
    <h3  align="center">
- ✨---  🎅🎄  Merry Xmas & Happy New Year  !  ---✨ </h3>
+ ✨---  Have a nice day & Take care !  ---✨ </h3>
  <br>
 
 

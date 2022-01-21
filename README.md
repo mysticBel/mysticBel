@@ -34,7 +34,23 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer+💻+💛;JS%20|%20UX%20|%20UI%20Enthusiast+💻+🤗;Always%20learning%20new%20things+for+sharing💜;I+💙+coding+for+fun!&center=true&width=500&height=50"></a>
 </p>
+ 
+
+  <div align="center">
   
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs" width="50" height="50"/></a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" height="50"/> </a>
+  <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" height="50"/> </a>
+     <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="angular" height="50"/> </a>
+     <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="vscode" height="50"/> </a>
+</div>
+
+
 <hr/>
 <h4 align="justify">I'm currently studying at  <a href="https://www.laboratoria.la">Laboratoria.la 💛 </a> , I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. <br>
   
@@ -77,6 +93,10 @@
 </br>
   
 <!-- ## 🛠️ My Skills -->
+
+
+
+
 <!-- 
 <p  align="center">
  <img  src="https://media.giphy.com/media/wR8c84hAAn0Mo/giphy.gif?cid=ecf05e47p1rgs4bsyu5s1hd1hj3ka76b70sialc2biw1uoly&rid=giphy.gif&ct=s" width="120">

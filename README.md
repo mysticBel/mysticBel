@@ -76,7 +76,7 @@
 <br>
 </br>
   
-## 🛠️ My Skills
+<!-- ## 🛠️ My Skills -->
 <!-- 
 <p  align="center">
  <img  src="https://media.giphy.com/media/wR8c84hAAn0Mo/giphy.gif?cid=ecf05e47p1rgs4bsyu5s1hd1hj3ka76b70sialc2biw1uoly&rid=giphy.gif&ct=s" width="120">

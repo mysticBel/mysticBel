@@ -66,15 +66,15 @@
 
 
  <p align="center"> 
-   <img alt= "stats card" height="150px" width="450" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" />
-   <img  align="left"  height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact" />
+   <img alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" />
+   <img  align="right"  height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact" />
 <br>
 <!--   <img  src="https://media.giphy.com/media/f9T7yKUOU3a4QUXj0w/giphy.gif" width="100">  -->
 </p>  
   
   
 <br>
-
+</br>
   
 ## 🛠️ My Skills
 <!-- 

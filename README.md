@@ -24,11 +24,13 @@
 <!--   <a href="https://www.pinterest.es/skyyofglass/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" height="18" width="18">
       </a>  -->
+  
+ 
   <a href="https://open.spotify.com/user/78r596y1a0gx7j6auncex45sv" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" height="18" width="18">
 
 </a> <p align="right"> <img src="https://komarev.com/ghpvc/?username=mysticBel&label=Welcome%20to%20my%20profile%20!🦄💜✨%20&color=ac6aad&style=plastic" alt="mysticBel" /> 
- <h1 align="center">Hi , I'm Maribel Maza <img src="https://media.giphy.com/media/Nf9SbPsJ8e1saJVogD/giphy.gif?cid=790b7611a4b7cc9e69d71d98f7cb6278e153457922d17527&rid=giphy.gif&ct=s" width="80"></h1> 
+ <h1 align="center">Hi , I'm Maribel Maza <img src="https://media.giphy.com/media/9V5fArpd99fLoemwn3/giphy.gif" width="80"></h1> 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer+💻+💛;JS%20|%20UX%20|%20UI%20Enthusiast+💻+🤗;Always%20learning%20new%20things+for+sharing💜;I+💙+coding+for+fun!&center=true&width=500&height=50"></a>
 </p>
@@ -44,23 +46,44 @@
 <a href="mailto:dnxbel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;<a href="https://github.com/mysticBel"><img alt="Github" src="https://img.shields.io/github/followers/mysticBel?label=follow&style=social"/></a> &nbsp;
 <!--   <a href="https://www.hackerrank.com/mysticBel"><img alt="Github" src="https://img.shields.io/badge/-HackerRank-islamicgreen?style=flat&logo=HackerRank&logoColor=black"/></a> &nbsp; -->
 <br></h4>
-<br> <br>
 
   <p>
-<a align= "center" href="https://github.com/mysticBel">
+<!--     https://media.giphy.com/media/Wdj3AJ3pq5SuIZfF8Q/giphy.gif **https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif** -->
     
-  <img alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="260px" width="330" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
-</p>
+<!--   <img alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" />
+ <img align="right" height="260px" width="330" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
 
-<br> <br> <br> 
+ 
+<!-- </p>
 
+  
+
+    <p align="center"><img align="center" height="250px" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mysticBel&theme=cobalt" alt="mysticBel" /></p>
+
+</p> -->
+ 
+
+
+
+ <p align="center"> 
+   <img alt= "stats card" height="150px" width="450" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" />
+   <img  align="left"  height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact" />
+<br>
+<!--   <img  src="https://media.giphy.com/media/f9T7yKUOU3a4QUXj0w/giphy.gif" width="100">  -->
+</p>  
+  
+  
+<br>
+
+  
 ## 🛠️ My Skills
-
+<!-- 
 <p  align="center">
  <img  src="https://media.giphy.com/media/wR8c84hAAn0Mo/giphy.gif?cid=ecf05e47p1rgs4bsyu5s1hd1hj3ka76b70sialc2biw1uoly&rid=giphy.gif&ct=s" width="120">
- </p>
-<p  align="justify">
+ </p> -->
+  
+  
+<!-- <p  align="justify">
 Frontend Tools : <a href="https://www.w3.org/html/" target="_blank"> 
   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -114,36 +137,68 @@ Backend Tools : <a href="https://nodejs.org/en/docs/" target="_blank">
      <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23F05033.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
   &emsp;
-</p> 
+</p>  -->
+  
+  
 </p>
 <br/>
-<details>
+<!-- <details>
   <summary><b>⚡Recent GitHub Activity(Expand to view) </b></summary>
-  <br/>
-    <p align="center"><img align="center" height="250px" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mysticBel&theme=cobalt" alt="mysticBel" /></p>
+  <br/>    <p align="center"><img align="center" height="250px" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mysticBel&theme=cobalt" alt="mysticBel" /></p>
    <a href="https://github.com/mysticBel"><img alt="mysticBel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mysticBel&custom_title=Maribel%20Maza's%20Contribution%20Graph&theme=react-dark" /></a>
 
 </p>
-  <br/>
+  <br/> -->
 
+
+<!-- 
+ <p align="center"> 
+   <img alt= "stats card" height="150px" width="450" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" />
+   <img  align="left"  height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact" />
+<br>
+  <img  src="https://media.giphy.com/media/f9T7yKUOU3a4QUXj0w/giphy.gif" width="100">  -->
+<!-- </p>
 </details>
 
+
+  <p align="center"> 
+   <img  src="https://media.giphy.com/media/f9T7yKUOU3a4QUXj0w/giphy.gif" width="100"> 
+  </p>
+   -->
+  
+  
+<p  align="center">  
+ <img  src="https://media.giphy.com/media/KZwaIIz48b8w9Az3L5/giphy.gif" width="120">
+ </p>
+   <h3  align="center">
+ ✨---  Relax, You've got this ! have an awesome day  !  ---✨ </h3>
+ <br>
+
+
+
+
+
+
+
+
+
+<!-- 
 ## 🎧...songs that move me forward 😄 🎵:
 
 [![One piece ](https://img.youtube.com/vi/Dc5EiNu_WwU/0.jpg)](https://www.youtube.com/watch?v=Dc5EiNu_WwU) <br><br> [![Braveheart ](https://img.youtube.com/vi/Yk2q-MTlKDc/0.jpg)](https://www.youtube.com/watch?v=Yk2q-MTlKDc)
 
-💜😜they mean soo much to me !! 
-<br>
+💜😜they mean soo much to me !!  -->
+<!-- <br>
 hey, thanks for being here...
 <br>
  
 <br>
  <p align="center"> <img  src="https://media.giphy.com/media/f9T7yKUOU3a4QUXj0w/giphy.gif" width="100"> 
-</p>
-   
+</p> **** https://media.giphy.com/media/fWrorpy7Jrlvi/giphy.gif
+   https://media.giphy.com/media/wR8c84hAAn0Mo/giphy.gif?cid=ecf05e47p1rgs4bsyu5s1hd1hj3ka76b70sialc2biw1uoly&rid=giphy.gif&ct=s 
    <h3  align="center">
  ✨---  Have a nice day & Take care !  ---✨ </h3>
- <br>
+ <br> -->
 
 
 <!---

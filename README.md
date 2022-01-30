@@ -29,12 +29,12 @@
  <br>
 <p align="center">  
   
-  ✨ Hiya! You can call me Mari, I'm a Frontend Developer, aspiring Fullstack, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
+  ✨ Hiya! You can call me Mari , I'm a Frontend Developer, aspiring Fullstack, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
   💛 I love meeting new people, exchanging ideas and spreading knowledge and positivity.✨ <br>🤗 I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. My main goal is to collaborate on projects that could help others in which we include so much creativity & create new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
   🎓I'm currently studying at  <a href="https://www.laboratoria.la">Laboratoria.la</a>  . I'm also taking part in #100Devs, a free software engineering bootcamp- I'm always looking for new opportunities to expand my horizons in the field I do most enjoy.<br>
   😋In my free time , I also enjoy playing retro-games, talking with friends,  watching anime, listening to music &  playing piano <br>
   . . . I freakin' love The Doors !🎵 ✨<br>
- 😎 Fun fact : You can always talk with me from the hidden secrets of the universe to the last film you've watched . . . I'm all ears !😄
+ 😎 Fun fact : You can always talk with me about anything & everything . . . from the hidden secrets of the universe to the last series you've been watching . . . I'm all ears !😄
 
  
   <br>

@@ -27,13 +27,16 @@
 </p>
  
  <br>
-<p align="center">
+<p align="center">  
   
-  ✨ Hiya! You can call me Mari, I'm a Frontend Developer, aspiring Fullstack, located in Lima, Peru. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. <br>
-  💛 I love meeting new people, exchanging ideas and spreading knowledge and positivity.<br>🤗 My main goal is to collaborate on projects that could help others in which we include so much creativity & create new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
-  🎓I'm currently studying at  <a href="https://www.laboratoria.la">Laboratoria.la</a>  . I'm also taking part in #100Devs, always looking for expanding my horizons in a field I do love.<br>
-  😋In my free time , I enjoy playing retro-games, talking with friends,  watching anime, listening to music &  playing piano <br>
-  . . . I freakin' love The Doors !🎵 ✨
+  ✨ Hiya! You can call me Mari, I'm a Frontend Developer, aspiring Fullstack, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
+  💛 I love meeting new people, exchanging ideas and spreading knowledge and positivity.✨ <br>🤗 I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. My main goal is to collaborate on projects that could help others in which we include so much creativity & create new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
+  🎓I'm currently studying at  <a href="https://www.laboratoria.la">Laboratoria.la</a>  . I'm also taking part in #100Devs, a free software engineering bootcamp- I'm always looking for new opportunities to expand my horizons in the field I do most enjoy.<br>
+  😋In my free time , I also enjoy playing retro-games, talking with friends,  watching anime, listening to music &  playing piano <br>
+  . . . I freakin' love The Doors !🎵 ✨<br>
+ 😎 Fun fact : You can always talk with me from the hidden secrets of the universe to the last film you've watched . . . I'm all ears !😄
+
+ 
   <br>
 <br><br>
 <h3 align="center">Languages and Tools:</h3><br><br>
@@ -72,9 +75,9 @@
 <hr>
 <br>
 
-   <h3 align="center">Relax, You've got this ! <br>  <img   align="center" src="https://media.giphy.com/media/KZwaIIz48b8w9Az3L5/giphy.gif" width="120">
+   <h4 align="center">Relax, You've got this ! <br>  <img   align="center" src="https://media.giphy.com/media/KZwaIIz48b8w9Az3L5/giphy.gif" width="120">
 <br>✨--- Have an awesome day  !  ---✨
-</h3
+</h4>
 
  <br>
  <br>

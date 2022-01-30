@@ -35,11 +35,8 @@
   😋In my free time , I enjoy playing retro-games, talking with friends,  watching anime, listening to music &  playing piano <br>
   . . . I freakin' love The Doors !🎵 ✨
   <br>
- <br>📬 If you are interested in connecting with me . . . Feel free to reach out ! 🐸👉 <a href="https://www.linkedin.com/in/maribel-maza/"><img alt="LinkedIn" src="https://img.shields.io/badge/Maribel Maza%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; <a href="https://twitter.com/skyyofglass"><img alt="LinkedIn" src="https://img.shields.io/badge/@skyyofglass%20-%231299B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp; 
-<a href="mailto:dnxbel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> </a> &nbsp;<a href="https://github.com/mysticBel"><img alt="Github" src="https://img.shields.io/github/followers/mysticBel?label=follow&style=social"/></a> 
 <br><br>
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3><br><br>
   <div align="center">
   
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="50" height="50"/> </a>
@@ -63,6 +60,15 @@
 
 </p> 
 <br><br>
+<div align="center"> 
+ <br>📬 If you are interested in connecting with me <br>. . . Feel free to reach out ! 🐸👇<br><br><br>
+ <div align="center"> 
+   <a href="https://www.linkedin.com/in/maribel-maza/"><img alt="LinkedIn" src="https://img.shields.io/badge/Maribel Maza%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; <a href="https://twitter.com/skyyofglass"><img alt="LinkedIn" src="https://img.shields.io/badge/@skyyofglass%20-%231299B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp; 
+<a href="mailto:dnxbel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> </a> &nbsp;<a href="https://github.com/mysticBel"><img alt="Github" src="https://img.shields.io/github/followers/mysticBel?label=follow&style=social"/></a> 
+<br><br>
+</div>
+
+
 <hr>
 <br>
 

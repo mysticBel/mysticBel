@@ -26,7 +26,7 @@
 </p>
  
  <br>
-<p align="justify">
+<p align="center">
   
   ✨ Hiya! Call me Maribel, I'm a Frontend Developer, aspiring Fullstack, located in Lima, Peru. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. <br>
   💛 I love meeting new people, exchanging ideas and spreading knowledge and positivity.<br>🤗 My main goal is to collaborate on projects that could help others in which we include so much creativity & create new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
@@ -52,12 +52,12 @@
   <br>
 <br>
 
-<h3 align="center">Statistics:</h3
+<h3 align="center">My stats:</h3
 
- <p align="center"> 
-   <img alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" /> 
-   <img    height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact" />
-<br>
+ <p > 
+   <img align="right" alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" /> 
+ <br>  <img alt= "stats card"  height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact"/>
+
 </p> 
 <br>
 <p  align="center">  

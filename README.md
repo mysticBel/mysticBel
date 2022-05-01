@@ -29,9 +29,9 @@
  <br>
 <p align="center">  
   
-  ✨ Hiya! You can call me Mari , I'm a Frontend Developer, aspiring Fullstack, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
-  💛 I love meeting new people, exchanging ideas and spreading knowledge and positivity.✨ <br>🤗 I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. My main goal is to collaborate on projects that could help others in which we include so much creativity & create new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
-  🎓 I'm always looking for new opportunities to expand my horizons in the fields that inspire me, advancing in my programming skills and data analysis, I'm open to new and exciting  adventures in my Tech journey. 
+  ✨ Hiya! You can call me Mari , I'm a Frontend Developer & UX designer, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
+  💛 I love meeting new people, exchanging ideas ,and spreading knowledge and positivity.✨ <br>🤗 I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. My main goal is to collaborate on projects that could help others in which we include so much creativity & design - ideate new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
+  🎓 I'm always looking for new opportunities to expand my horizons in the fields that inspire me, advancing in my programming skills and data analysis, I'm open to new and exciting  adventures in my Tech journey. You can always count on me if you want to have a partner to support you in your tech journey as well, so we can grow together. 
  <br>
   😋In my free time , I also enjoy playing retro-games, talking with friends, teaching, helping others, watching anime, listening to music &  playing piano <br>
   . . . I freakin' love The Doors !🎵 ✨<br>
@@ -47,7 +47,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="50" height="50"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs" width="50" height="50"/></a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50"/> </a><a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="angular" height="50"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50"/> </a>
+<!--  <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="angular" height="50"/> </a>-->
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="50" height="50"/> </a>
   <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" height="50"/> </a>
      
@@ -58,9 +59,12 @@
 
 <h3 align="center">My stats:</h3
 
- <p > 
-   <img align="right" alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" /> 
- <br>  <img alt= "stats card"  height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact"/>
+ <p align="center" > 
+  <br> 
+   <img alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" /> 
+</p> 
+<p align="center" > 
+ <br>  <img  alt= "stats card"  height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact" />
 
 </p> 
 <br><br>

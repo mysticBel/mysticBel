@@ -47,9 +47,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="50" height="50"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs" width="50" height="50"/></a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50"/> </a>
-<!--  <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="angular" height="50"/> </a>-->
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="50" height="50"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="50" height="50"/> </a>
   <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" height="50"/> </a>
      
 </div>
@@ -89,7 +87,7 @@
    
 
 
-
+<!--  <a href="https://docs.python.org/3/" target="_blank"> <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="angular" height="50"/> </a>-->
 
 <!-- mysticBel/mysticBel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->

@@ -29,9 +29,9 @@
  <br>
 <p align="center">  
   
-  ✨ Hiya! You can call me Mari , I'm a Frontend Developer & UX designer, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
+  ✨ Hiya! You can call me Mari , I'm a Frontend Developer & UX designer enthusiast, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
   💛 I love meeting new people, exchanging ideas ,and spreading knowledge and positivity.✨ <br>🤗 I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. My main goal is to collaborate on projects that could help others in which we include so much creativity & design - ideate new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
-  🎓 I'm always looking for new opportunities to expand my horizons in the fields that inspire me, advancing in my programming skills and data analysis, I'm open to new and exciting  adventures in my Tech journey. You can always count on me if you want to have a partner to support you in your tech journey as well, so we can grow together. 
+  🎓 I'm always looking for new opportunities to expand my horizons in the fields that inspire me, advancing in my programming skills, I'm open to new and exciting  adventures in my Tech journey. You can always count on me if you want to have a partner to support you in your tech journey as well, so we can grow together. 
  <br>
   😋In my free time , I also enjoy playing retro-games, talking with friends, teaching, helping others, watching anime, listening to music &  playing piano <br>
   . . . I freakin' love The Doors !🎵 ✨<br>

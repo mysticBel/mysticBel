@@ -20,16 +20,18 @@
 
 
  <h1 align="center">Hi , I'm Maribel Maza <img src="https://media.giphy.com/media/9V5fArpd99fLoemwn3/giphy.gif" width="80"></h1> 
-
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+student+💜;Frontend+Web+Developer+💛;JS%20|%20UX%20|%20UI%20Enthusiast+🤗;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Dev+💜;Software+Dev+🤗;&center=true&width=500&height=50"></a>
 </p>
+
+<!--<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+student+💜;Frontend+Developer+💛;JS%20|%20UX%20|%20UI%20Enthusiast+🤗;&center=true&width=500&height=50"></a>
+</p>-->
  
- <br>
+ <!--  <br>
 <p align="center">  
   
- <!-- ✨ Hiya! You can call me Mari , I'm a Frontend Developer & UX designer enthusiast, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
+✨ Hiya! You can call me Mari , I'm a Frontend Developer & UX designer enthusiast, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
   💛 I love meeting new people, exchanging ideas ,and spreading knowledge and positivity.✨ <br>🤗 I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. My main goal is to collaborate on projects that could help others in which we include so much creativity & design - ideate new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
   🎓 I'm always looking for new opportunities to expand my horizons in the fields that inspire me, advancing in my programming skills, I'm open to new and exciting  adventures in my Tech journey. You can always count on me if you want to have a partner to support you in your tech journey as well, so we can grow together. 
  <br>
@@ -39,6 +41,15 @@
 
  
   <br>-->
+<br><h3 align="center">My stats:</h3>
+
+ <p align="center" > 
+ 
+   <p align="center" > 
+  <img alt= "stats card" height="150px" width="350" src="https://github-readme-stats.vercel.app/api?username=mysticBel&theme=cobalt&show_icons=true&count_private=true" /> 
+ <br>  <img  alt= "stats card"  height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact" />
+
+</p> 
 <br><br>
 <h3 align="center">Languages and Tools:</h3><br><br>
   <div align="center">

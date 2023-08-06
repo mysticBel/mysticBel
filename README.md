@@ -29,7 +29,7 @@
  <br>
 <p align="center">  
   
-  ✨ Hiya! You can call me Mari , I'm a Frontend Developer & UX designer enthusiast, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
+ <!-- ✨ Hiya! You can call me Mari , I'm a Frontend Developer & UX designer enthusiast, located in Lima, Peru. I like to Code, Design, Innovate and Experiment.<br>
   💛 I love meeting new people, exchanging ideas ,and spreading knowledge and positivity.✨ <br>🤗 I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. My main goal is to collaborate on projects that could help others in which we include so much creativity & design - ideate new experiences! in other words, bring to life digital solutions for real world problems while putting my heart in every project I'm into. <br>
   🎓 I'm always looking for new opportunities to expand my horizons in the fields that inspire me, advancing in my programming skills, I'm open to new and exciting  adventures in my Tech journey. You can always count on me if you want to have a partner to support you in your tech journey as well, so we can grow together. 
  <br>
@@ -38,7 +38,7 @@
  😎 Fun fact : You can always talk with me about anything & everything . . . from the hidden secrets of the universe to the last series you've been watching . . . I'm all ears !😄
 
  
-  <br>
+  <br>-->
 <br><br>
 <h3 align="center">Languages and Tools:</h3><br><br>
   <div align="center">
@@ -55,7 +55,8 @@
   <br>
 <br>
 
-<h3 align="center">My stats:</h3
+
+<!-- <h3 align="center">My stats:</h3>
 
  <p align="center" > 
  
@@ -71,8 +72,7 @@
    <a href="https://www.linkedin.com/in/maribel-maza/"><img alt="LinkedIn" src="https://img.shields.io/badge/Maribel Maza%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; <a href="https://twitter.com/skyyofglass"><img alt="LinkedIn" src="https://img.shields.io/badge/@skyyofglass%20-%231299B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp; 
 <a href="mailto:dnxbel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> </a> &nbsp;<a href="https://github.com/mysticBel"><img alt="Github" src="https://img.shields.io/github/followers/mysticBel?label=follow&style=social"/></a> 
 <br><br>
-</div>
-
+</div> -->
 
 <hr>
 <br>

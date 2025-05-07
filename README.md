@@ -1,3 +1,35 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mysticBel&label=Hello!%20💜%20&color=ac6aad&style=plastic" alt="mysticBel" /> 
+
+# ¡Hola! 👋 I'm Maribel Maza
+
+**Software Engineer** | **GenAI Enthusiast** | **AI Engineer in the making** 🤖 | **Tech for Social Good** ✨
+
+💡 **About Me:** 
+
+I'm a passionate developer who loves creating impactful solutions from scratch. Currently diving deep into **Generative AI**, cloud technologies, and ethical AI applications. My mission? To bridge cutting-edge tech with real-world problems—one script at a time!  
+
+🌱 **Learning Now:**  
+- LLM-powered solutions (hello, LangChain! 🤖)
+- Prompt Engineering, Fine-tuning
+- Cloud-native GenAI deployment  
+
+✨ **Fun Fact:**  
+When I'm not coding, I’m probably learning new stuff, blogging my tech-experiences , being with my fam, resting in nature like a tree, or volunteering. 
+
+
+📫 **Let’s Connect:**  
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
@@ -10,18 +42,18 @@
 <a href="https://twitter.com/skyyofglass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/maribel-maza/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="30" /></a>
 <a href="https://www.facebook.com/maza.maribel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="20" width="30" /></a>
-<a href="https://www.instagram.com/m.bel.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="20" width="30" /></a>
-  <a href="https://open.spotify.com/user/78r596y1a0gx7j6auncex45sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="20" width="30" /></a>
+<!-- <a href="https://www.instagram.com/m.bel.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="20" width="30" /></a>
+  <a href="https://open.spotify.com/user/78r596y1a0gx7j6auncex45sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="20" width="30" /></a> -->
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mysticBel&label=Welcome!%20🐸💜✨%20&color=ac6aad&style=plastic" alt="mysticBel" /> 
+
 
 </div>
 
 
- <h1 align="center">Hi , I'm Maribel Maza <img src="https://media.giphy.com/media/9V5fArpd99fLoemwn3/giphy.gif" width="80"></h1> 
+ <h2 align="center"><img src="https://media.giphy.com/media/9V5fArpd99fLoemwn3/giphy.gif" width="80"></h2> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+💜;Software+Engineer+🤗;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Enjoy+the+journey💜;Keep+going+!+🤗;Believe+in+yourself+✨;&center=true&width=500&height=50"></a>
 </p>
 
 <!--<p align="center">
@@ -41,6 +73,11 @@
 
  
   <br>-->
+
+
+
+<!-- STATSSSSSSSSSS
+  
 <br><h3 align="center">My stats:</h3>
 
  <p align="center" > 
@@ -50,7 +87,12 @@
  <br>  <img  alt= "stats card"  height="150px"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticBel&langs_count=10&theme=cobalt&layout=compact" />
 
 </p> 
-<br><br>
+<br><br> -->
+
+
+
+
+
  <!-- <h3 align="center">Languages and Tools:</h3><br><br>
   <div align="center">
  <!-  
@@ -86,14 +128,11 @@
 </div> -->
 
 <hr>
-<br>
 
+<!-- 
    <h4 align="center">Relax, You've got this ! <br>  <img   align="center" src="https://media.giphy.com/media/KZwaIIz48b8w9Az3L5/giphy.gif" width="120">
-<br>✨--- Have an awesome day  !  ---✨
-</h4>
-
- <br>
- <br>
+<br>✨ Have an awesome day  ! ✨
+</h4>  -->
 
    
 

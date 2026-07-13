@@ -8,11 +8,6 @@
 
 I'm a passionate developer who loves creating impactful solutions from scratch. Currently diving deep into **Generative AI**, cloud technologies, and ethical AI applications. My mission? To bridge cutting-edge tech with real-world problems—one script at a time!  
 
-🌱 **Learning Now:**  
-- LLM-powered solutions (hello, LangChain! 🤖)
-- Prompt Engineering, Fine-tuning
-- Cloud-native GenAI deployment  
-
 ✨ **Fun Fact:**  
 When I'm not coding, I’m probably learning new stuff, blogging my tech-experiences , being with my fam, resting in nature like a tree, or volunteering. 
 

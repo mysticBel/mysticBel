@@ -2,7 +2,7 @@
 
 # ¡Hola! 👋 I'm Maribel Maza
 
-**Software Engineer** | **GenAI Enthusiast** | **AI Engineer in the making** 🤖 | **Tech for Social Good** ✨
+**AI Engineer** 🤖 | **Tech for Social Good** ✨
 
 💡 **About Me:** 
 

@@ -34,9 +34,8 @@ When I'm not coding, I’m probably learning new stuff, blogging my tech-experie
 <div> 
 
  <p align="left">
-<a href="https://twitter.com/skyyofglass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/maribel-maza/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="30" /></a>
-<a href="https://www.facebook.com/maza.maribel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="20" width="30" /></a>
+
 <!-- <a href="https://www.instagram.com/m.bel.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="20" width="30" /></a>
   <a href="https://open.spotify.com/user/78r596y1a0gx7j6auncex45sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="20" width="30" /></a> -->
 </p>

@@ -2,11 +2,13 @@
 
 # ¡Hola! 👋 I'm Maribel Maza
 
-**AI Engineer** 🤖 | **Tech for Social Good** ✨
+**AI Engineer** 🤖 | **Bridging research, engineering, and strategic innovation** | **Tech for Social Good** ✨
 
 💡 **About Me:** 
 
-I'm a passionate developer who loves creating impactful solutions from scratch. Currently diving deep into **Machine Learning**, **Generative AI**, cloud technologies, and ethical AI applications. My mission? To bridge cutting-edge tech with real-world problems—one script at a time!  
+AI researcher focused on frontier AI and human-centered AI.
+Exploring the intersection of machine learning, product strategy, consulting, software engineering and innovation.
+Building systems that turn research into measurable impact.
 
 ✨ **Fun Fact:**  
 When I'm not coding, I’m probably learning new stuff, blogging my tech-experiences , being with my fam, resting in nature like a tree, or volunteering. 

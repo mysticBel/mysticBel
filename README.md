@@ -2,7 +2,7 @@
 
 # ¡Hola! 👋 I'm Maribel Maza
 
-**AI Engineer** 🤖 | **Bridging research, engineering, and strategic innovation** | **Tech for Social Good** ✨
+**Bridging research, engineering, education and strategic innovation** | **Tech for Social Good** ✨
 
 💡 **About Me:** 
 
@@ -11,7 +11,7 @@ Exploring the intersection of machine learning, product strategy, consulting, so
 Building systems that turn research into measurable impact.
 
 ✨ **Fun Fact:**  
-When I'm not coding, I’m probably learning new stuff, blogging my tech-experiences , being with my fam, resting in nature like a tree, or volunteering. 
+When I'm not coding, I’m probably teaching, learning new stuff, blogging my tech-experiences , being with the ones I love, resting in nature like a tree, or volunteering. 
 
 
 📫 **Let’s Connect:**  
